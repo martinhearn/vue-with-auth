@@ -1,3 +1,8 @@
+window.API_URL = 'http://admin.vue-demo.ansible'
+window.ASSETS_URL = 'http://assets.vue-demo.ansible'
+window.LOGIN_URL = window.API_URL + 'sessions/create'
+window.SIGNUP_URL = window.API_URL + 'users/'
+
 import Vue from 'vue'
 import App from './App.vue'
 import VueRouter from 'vue-router'
