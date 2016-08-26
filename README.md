@@ -1,4 +1,4 @@
-# my-project2
+# Vue-with-auth
 
 > A Vue.js project
 
